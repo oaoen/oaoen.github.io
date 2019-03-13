@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-03-13T09:27:44.845Z</updated>
+  <updated>2019-03-13T10:10:38.393Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>IDM下载外网资源</title>
+    <link href="http://yoursite.com/2019/03/13/IDM%E4%B8%8B%E8%BD%BD%E5%A4%96%E7%BD%91%E8%B5%84%E6%BA%90/"/>
+    <id>http://yoursite.com/2019/03/13/IDM下载外网资源/</id>
+    <published>2019-03-13T09:33:32.000Z</published>
+    <updated>2019-03-13T10:10:38.393Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="IDM下载外网资源"><a href="#IDM下载外网资源" class="headerlink" title="IDM下载外网资源"></a>IDM下载外网资源</h1><h2 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h2><p>一. 下载IDM</p><p>二.更改方式</p><p>三.下载结果展示</p><h2 id="一-下载IDM"><a href="#一-下载IDM" class="headerlink" title="一.下载IDM"></a>一.下载IDM</h2><p>官网：<a href="http://www.internetdownloadmanager.com/" target="_blank" rel="noopener">internetdownloadmanager</a></p><p>蓝奏云(破解版)：<a href="http://www.internetdownloadmanager.com/" target="_blank" rel="noopener">IDM 6.32 Build 6 简体中文破解版（安装版）（RoOKing补丁） - 20190212.exe</a></p><h2 id="二-更改方式"><a href="#二-更改方式" class="headerlink" title="二. 更改方式"></a>二. 更改方式</h2><p>需要<code>魔法上网</code>，手握打开新世界的钥匙🔑</p><p>并在选项设置中勾选<code>允许来自局域网的连接</code>，端口号：1080</p><p><img src="C:\Users\生活你好\Desktop\TyMd\IDM下载资源\OAO_2019-03-13_00-15-27.png" alt="允许局域网的连接"></p><p>在IDM的选项设置==》代理服务器设置 手动配置</p><p><img src="C:\Users\生活你好\Desktop\TyMd\IDM下载资源\OAO_2019-03-13_00-18-49.png" alt="选项卡--》下载--》选项"></p><p><img src="C:\Users\生活你好\Desktop\TyMd\IDM下载资源\OAO_2019-03-13_00-18-39.png" alt="手动配置 代理/socks"></p><h2 id="三-下载方式展示"><a href="#三-下载方式展示" class="headerlink" title="三. 下载方式展示"></a>三. 下载方式展示</h2><p><img src="C:\Users\生活你好\Desktop\TyMd\IDM下载资源\OAO_2019-03-13_00-21-46.png" alt="挂了吗，尴尬"></p><p><img src="C:\Users\生活你好\Desktop\TyMd\IDM下载资源\OAO_2019-03-13_00-25-11.png" alt="下载油管视频，🆗"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;IDM下载外网资源&quot;&gt;&lt;a href=&quot;#IDM下载外网资源&quot; class=&quot;headerlink&quot; title=&quot;IDM下载外网资源&quot;&gt;&lt;/a&gt;IDM下载外网资源&lt;/h1&gt;&lt;h2 id=&quot;目录&quot;&gt;&lt;a href=&quot;#目录&quot; class=&quot;headerlink&quot; 
+      
+    
+    </summary>
+    
+    
+      <category term="分享" scheme="http://yoursite.com/tags/%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
   
   <entry>
     <title>皮测试文章</title>
